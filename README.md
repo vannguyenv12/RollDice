@@ -1,6 +1,7 @@
 #1. Giới thiêu game
 - Roll Dice là môt trò chơi được viết bằng JavaScript
 - Là một game 2 người chơi, rủ ban bè để cùng nhau cay cú nào
+
 ![image](https://user-images.githubusercontent.com/88303019/161009727-7c52d8e3-98bc-464a-8b3e-e17e2d8e75be.png)
 
 
