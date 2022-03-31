@@ -1,4 +1,4 @@
-# 1. Giới thiêu game
+# 1. Giới thiệu game
 - Roll Dice là môt trò chơi được viết bằng JavaScript
 - Là một game 2 người chơi, rủ ban bè để cùng nhau cay cú nào
 
